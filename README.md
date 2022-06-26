@@ -1,10 +1,12 @@
-# Developing AI Agent with PEAS Description
+### EX NO: 01
+### DATE:
+# <p align="center">Developing AI Agent with PEAS Description</p>
 
-## AIM
+## AIM:
 
 To find the PEAS description for the given AI problem and develop an AI agent.
 
-## THEORY
+## THEORY:
 
 A vacuum-cleaner world with just two locations.
 
@@ -12,14 +14,14 @@ Each location can be clean or dirty.
 
 The agent can move left or right and can clean the square that it occupies.
 
-## PEAS DESCRIPTION
+## PEAS DESCRIPTION:
 
 | Agent Type  | Performance Measure  | Environment | Actuators | Sensors|
 | :-------------: |:-------------: |:-------------: |:-------------: |:-------------: |
 | Vaccum-Cleaner  | Cleanliness,Number of Movements  | Rooms | Wheels,suction tool | location,Cleanliness |
 
 
-## DESIGN STEPS
+## DESIGN STEPS:
 ### STEP 1:
 Identifying the input:
 
@@ -264,10 +266,10 @@ if __name__ == "__main__":
         time.sleep(10)
 ```
 
-## OUTPUT
+## OUTPUT:
 
 ![pic](https://user-images.githubusercontent.com/75413726/162249950-b2b8c0ff-023e-4f97-a47d-aca92b751888.jpeg)
 
 
-## RESULT
+## RESULT:
 Thus, an AI agent was developed and PEAS description is given.
